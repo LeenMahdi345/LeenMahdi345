@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leen Rajan
+# 👋 Hi, I'm Leen Rajab
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Leen%20Rajan\&fontSize=50\&animation=twinkling)
 
