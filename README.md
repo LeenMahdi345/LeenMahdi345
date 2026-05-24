@@ -83,8 +83,6 @@ RESTful backend system for managing products, authentication, orders, and users.
 * 🚀 Advanced Backend Development
 * 🏗️ System Design Basics
 * 🧼 Clean Architecture
-* 🐍 Django REST Framework
-* 🐘 PostgreSQL
 
 ---
 
@@ -101,8 +99,8 @@ RESTful backend system for managing products, authentication, orders, and users.
 ## 📫 Connect With Me
 
 * 🐙 GitHub: [https://github.com/](https://github.com/)
-* 💼 LinkedIn: Add your LinkedIn link here
-* 📧 Email: Add your email here
+* 💼 LinkedIn: (https://www.linkedin.com/in/leen-rajab-6221622a7/)
+* 📧 Email: leenrajab92@gmail.com
 
 ---
 
