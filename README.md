@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leen Rajab
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Leen%20Rajan\&fontSize=50\&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0\:FF4B2B,100\:FF416C\&height=200\&section=header\&text=Leen%20Rajab\&fontSize=50\&animation=twinkling)
 
 ### 💻 Computer Science Student | Backend Developer
 
