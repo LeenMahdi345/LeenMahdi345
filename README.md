@@ -32,7 +32,7 @@ Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineer
 ### 🗃️ Database
 
 * 🟦 SQL Server
-* 🐘 PostgreSQL
+
 
 ### 🛠️ Tools & Platforms
 
