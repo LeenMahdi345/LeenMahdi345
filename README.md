@@ -7,33 +7,25 @@
 Passionate about building scalable backend systems and full-stack web applications using modern technologies.
 Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineering best practices.
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeenMahdi345\&label=Profile%20views\&color=0e75b6\&style=flat)
-
----
-
 ## 🚀 Tech Stack
 
-<div align="center">
+### 🧠 Backend
 
-### 🧠 Backend | 🎨 Frontend | 🗃️ Database | 🛠️ Tools
+⚙️ ASP.NET Core • 💙 C# • 🗄️ Entity Framework Core • 🔐 JWT Authentication • ⚡ SignalR • 🌐 RESTful APIs
 
-⚙️ ASP.NET Core • 💙 C# • 🗄️ EF Core • 🔐 JWT • ⚡ SignalR • 🌐 APIs
-⚛️ React.js • 🎨 HTML • 🎨 CSS • ⚡ JavaScript
+### 🎨 Frontend
+
+⚛️ React.js • 🎨 HTML5 • 🎨 CSS3 • ⚡ JavaScript
+
+### 🗃️ Database
+
 🟦 SQL Server
-🧰 Git • 📮 Postman • 💻 Visual Studio • 🖥️ VS Code • 📚 NetBeans
 
-</div>
+### 🛠️ Tools & Platforms
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeenMahdi345\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenMahdi345\&layout=compact\&theme=tokyonight)
+🧰 Git & GitHub • 📮 Postman • 💻 Visual Studio • 🖥️ VS Code • 📚 NetBeans
 
 ---
-
 ## 📌 Featured Projects
 
 ### 🔗 UniSwap
