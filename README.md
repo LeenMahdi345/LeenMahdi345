@@ -45,10 +45,9 @@ Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineer
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeenMahdi345\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeenMahdi345&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenMahdi345\&layout=compact\&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenMahdi345&layout=compact&theme=tokyonight)
 ---
 
 ## 📌 Featured Projects
