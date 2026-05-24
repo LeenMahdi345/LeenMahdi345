@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Leen%20Rajab\&fontSize=50\&animation=twinkling)
 
-### 💻 Computer Science Student | Backend Developer
+### 💻 Computer Systems  Engineer | Backend Developer
 
 Passionate about building scalable backend systems and full-stack web applications using modern technologies.
 Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineering best practices.
