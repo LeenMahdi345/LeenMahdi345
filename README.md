@@ -76,15 +76,7 @@ RESTful backend system for managing products, authentication, orders, and users.
 
 **Tech Stack:** ASP.NET Core, Entity Framework Core, SQL Server
 
----
 
-### 🧪 QA Testing Project
-
-Automated testing project using Playwright and TypeScript.
-
-**Tech Stack:** Playwright, TypeScript
-
----
 
 ## 🌱 Currently Learning
 
