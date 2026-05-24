@@ -2,30 +2,35 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Leen%20Rajab\&fontSize=50\&animation=twinkling)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Backend+Developer;ASP.NET+Core+%7C+React;Clean+Architecture+Enthusiast)](https://git.io/typing-svg)
+
 ### 💻 Computer Systems Engineer | Backend Developer
 
 Passionate about building scalable backend systems and full-stack web applications using modern technologies.
 Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineering best practices.
+-
 
 ## 🚀 Tech Stack
 
-### 🧠 Backend
+## 🧠 Backend
 
 ⚙️ ASP.NET Core • 💙 C# • 🗄️ Entity Framework Core • 🔐 JWT Authentication • ⚡ SignalR • 🌐 RESTful APIs
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 ⚛️ React.js • 🎨 HTML5 • 🎨 CSS3 • ⚡ JavaScript
 
-### 🗃️ Database
+## 🗃️ Database
 
 🟦 SQL Server
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 
 🧰 Git & GitHub • 📮 Postman • 💻 Visual Studio • 🖥️ VS Code • 📚 NetBeans
 
 ---
+
+
 ## 📌 Featured Projects
 
 ### 🔗 UniSwap
