@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Leen Rajab
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Leen%20Rajab\&fontSize=50\&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Leen%20Rajan\&fontSize=50\&animation=twinkling)
 
-### 💻 Computer Systems  Engineer | Backend Developer
+### 💻 Computer Systems Engineer | Backend Developer
 
 Passionate about building scalable backend systems and full-stack web applications using modern technologies.
 Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineering best practices.
 
-![Profile Views](https://komarev.com/ghpvc/?username=leenmahdi\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=LeenMahdi345\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 ---
 
@@ -33,7 +33,6 @@ Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineer
 
 * 🟦 SQL Server
 
-
 ### 🛠️ Tools & Platforms
 
 * 🧰 Git & GitHub
@@ -46,9 +45,9 @@ Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineer
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leenmahdi\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeenMahdi345\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenmahdi\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenMahdi345\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -76,7 +75,7 @@ RESTful backend system for managing products, authentication, orders, and users.
 
 **Tech Stack:** ASP.NET Core, Entity Framework Core, SQL Server
 
-
+---
 
 ## 🌱 Currently Learning
 
@@ -98,8 +97,8 @@ RESTful backend system for managing products, authentication, orders, and users.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/leen-rajab-6221622a7/)
-* 📧 Email: leenrajab92@gmail.com
+* 💼 LinkedIn: [https://www.linkedin.com/in/leen-rajab-6221622a7/](https://www.linkedin.com/in/leen-rajab-6221622a7/)
+* 📧 Email: [leenrajab92@gmail.com](mailto:leenrajab92@gmail.com)
 
 ---
 
