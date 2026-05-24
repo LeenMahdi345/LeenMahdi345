@@ -6,9 +6,6 @@
 
 Passionate about building scalable backend systems and full-stack web applications using modern technologies.
 Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineering best practices.
-
-![Profile Views](https://komarev.com/ghpvc/?username=LeenMahdi345\&label=Profile%20views\&color=0e75b6\&style=flat)
-
 ---
 
 ## 🚀 Tech Stack
@@ -41,13 +38,6 @@ Currently focusing on ASP.NET Core, REST APIs, SQL Server, and software engineer
 * 🖥️ VS Code
 * 📚 NetBeans
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeenMahdi345&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenMahdi345&layout=compact&theme=tokyonight)
 ---
 
 ## 📌 Featured Projects
